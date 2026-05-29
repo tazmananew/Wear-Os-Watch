@@ -1,0 +1,6 @@
+{
+  "name": "Wear OS Saat Arayüzü",
+  "description": "Xiaomi Watch 2 ve Wear OS 5 için web tabanlı saat arayüzü (watch face) tasarım ve prototipleme aracı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
